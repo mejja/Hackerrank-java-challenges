@@ -6,14 +6,19 @@ Given an integer, , print its first  multiples. Each multiple  (where ) should b
 
 ### Input Format
 
-A single integer, .
+A single integer, N.
 
-Constraints
+### Constraints
+````Java
+2<=N>=20
+````
 
 ### Output Format
 
 Print  lines of output; each line  (where ) contains the  of  in the form:
+````Java
 N x i = result.
+````
 
 ### Sample Input
 
